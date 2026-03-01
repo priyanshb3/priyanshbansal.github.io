@@ -161,6 +161,14 @@ const portfolioData = {
       genre: "Politics & Society",
       review: "A challenging and intense read. Ambedkar doesn't just criticize caste — he dismantles the religious, social, and philosophical foundations that protect it. His intellectual courage and refusal to engage in hero worship stood out to me the most. While I did not agree with every aspect of his framing, engaging with his arguments strengthened my critical thinking and pushed me to separate tradition from morality. A humbling experience that reshaped how I view power, social reform, and ethical responsibility.",
       color: "#6366f1"
+    },
+    {
+      title: "Days at the Morisaki Bookshop",
+      author: "Satoshi Yagisawa",
+      rating: 5,
+      genre: "Fiction",
+      review: "Felt like a quiet comfort. Unlike the heavy philosophical texts I've read, this book offered stillness, healing, and reflection. Its simplicity is its strength. Through small moments and the love of books, the story explores loneliness, growth, and rediscovering oneself. It reminded me that not all transformation is dramatic — sometimes it happens slowly, in silence, between pages. A gentle yet deeply meaningful read.",
+      color: "#f59e0b"
     }
   ]
 };
