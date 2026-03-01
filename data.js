@@ -104,7 +104,7 @@ const portfolioData = {
       photos: [
         { file: "france1.jpg", caption: "SEPR Lyon workshops" },
         { file: "france2.jpg", caption: "United Nations, Geneva" },
-        { file: "france3.jpg", caption: "Team sessions in France" },
+        { file: "france3.png", caption: "Team sessions in France" },
         // Add more photos like this:
         // { file: "france4.jpg", caption: "Your caption here" },
       ]
@@ -114,10 +114,11 @@ const portfolioData = {
       year: "2024",
       cover: "vietnam1.jpg",
       photos: [
-        { file: "vietnam1.jpg", caption: "FPT University campus" },
-        { file: "vietnam2.jpg", caption: "International team collaborations" },
-        { file: "vietnam3.jpg", caption: "Innovation challenge presentations" },
-        // Add more photos like this:
+        { file: "vietnam1.jpeg", caption: "FPT University classes" },
+        { file: "vietnam2.JPG", caption: "International team collaborations" },
+        { file: "vietnam3.JPG", caption: "Innovation challenge presentations" },
+        { file: "vietnam4.JPG", caption: "cormis visit" },
+// Add more photos like this:
         // { file: "vietnam4.jpg", caption: "Your caption here" },
       ]
     },
