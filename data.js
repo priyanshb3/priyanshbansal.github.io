@@ -146,14 +146,13 @@ const portfolioData = {
       review: "A game-changing book that breaks down how tiny 1% improvements compound into remarkable results. Clear's framework of identity-based habits completely changed how I approach personal growth.",
       color: "#f97316" // orange accent color for this card
     }
-    // ADD MORE BOOKS LIKE THIS:
-    // {
-    //   title: "Book Title",
-    //   author: "Author Name",
-    //   rating: 4,       // number from 1 to 5
-    //   genre: "Genre",
-    //   review: "Your personal review...",
-    //   color: "#8b5cf6"  // pick any hex color
-    // },
+    {
+      title: "Sophies's World",
+      author: "Jostein Gaarder",
+      rating: 5,
+      genre: "Philosphy",
+      review: "Reading Sophie's World was more than finishing a 400+ page novel — it was an intellectual shift for me. It introduced me to centuries of philosophy, but more importantly, it forced me to question my own assumptions. I found myself agreeing with some thinkers, strongly disagreeing with others, and learning how to argue from understanding rather than impulse. Philosophers like Epicurus, Nietzsche, and Sartre especially resonated with me. What impacted me most was realizing how many systems — moral, religious, and social — are human constructions. That realization was humbling. Finishing this book didn't just expand my knowledge — it helped me rediscover my love for questioning and thinking deeply",
+      color: "#f97316"
+    },
   ]
 };
