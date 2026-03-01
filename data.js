@@ -145,7 +145,7 @@ const portfolioData = {
       genre: "Self-Development",
       review: "A game-changing book that breaks down how tiny 1% improvements compound into remarkable results. Clear's framework of identity-based habits completely changed how I approach personal growth.",
       color: "#f97316" // orange accent color for this card
-    }
+    },
     {
       title: "Sophies's World",
       author: "Jostein Gaarder",
