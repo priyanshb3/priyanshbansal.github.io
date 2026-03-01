@@ -153,6 +153,6 @@ const portfolioData = {
       genre: "Philosphy",
       review: "Reading Sophie's World was more than finishing a 400+ page novel — it was an intellectual shift for me. It introduced me to centuries of philosophy, but more importantly, it forced me to question my own assumptions. I found myself agreeing with some thinkers, strongly disagreeing with others, and learning how to argue from understanding rather than impulse. Philosophers like Epicurus, Nietzsche, and Sartre especially resonated with me. What impacted me most was realizing how many systems — moral, religious, and social — are human constructions. That realization was humbling. Finishing this book didn't just expand my knowledge — it helped me rediscover my love for questioning and thinking deeply",
       color: "#f97316"
-    },
+    }
   ]
 };
