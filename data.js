@@ -141,7 +141,7 @@ const portfolioData = {
     {
       title: "Atomic Habits",
       author: "James Clear",
-      rating: 5,
+      rating: 4,
       genre: "Self-Development",
       review: "A game-changing book that breaks down how tiny 1% improvements compound into remarkable results. Clear's framework of identity-based habits completely changed how I approach personal growth.",
       color: "#f97316" // orange accent color for this card
@@ -153,6 +153,14 @@ const portfolioData = {
       genre: "Philosphy",
       review: "Reading Sophie's World was more than finishing a 400+ page novel — it was an intellectual shift for me. It introduced me to centuries of philosophy, but more importantly, it forced me to question my own assumptions. I found myself agreeing with some thinkers, strongly disagreeing with others, and learning how to argue from understanding rather than impulse. Philosophers like Epicurus, Nietzsche, and Sartre especially resonated with me. What impacted me most was realizing how many systems — moral, religious, and social — are human constructions. That realization was humbling. Finishing this book didn't just expand my knowledge — it helped me rediscover my love for questioning and thinking deeply",
       color: "#f97316"
+    },
+    {
+      title: "Annihilation of Caste",
+      author: "B.R. Ambedkar",
+      rating: 5,
+      genre: "Politics & Society",
+      review: "A challenging and intense read. Ambedkar doesn't just criticize caste — he dismantles the religious, social, and philosophical foundations that protect it. His intellectual courage and refusal to engage in hero worship stood out to me the most. While I did not agree with every aspect of his framing, engaging with his arguments strengthened my critical thinking and pushed me to separate tradition from morality. A humbling experience that reshaped how I view power, social reform, and ethical responsibility.",
+      color: "#6366f1"
     }
   ]
 };
