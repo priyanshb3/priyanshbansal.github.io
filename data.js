@@ -7,7 +7,7 @@ const portfolioData = {
     phone: "7453001894",
     linkedin: "https://linkedin.com/in/priyansh-bansal-57ba55309",
     bio: "Third-year B.Tech Computer Science student with experience in social media marketing, NGO communications, sustainability projects, and international business programs. Skilled in content strategy, digital campaigns, and stakeholder communication. Built and grew digital communities from scratch and supported international collaborations.",
-    photo: "photo.jpg" // Replace with your actual photo filename
+    photo: "photo.JPG" // Replace with your actual photo filename
   },
 
   experience: [
