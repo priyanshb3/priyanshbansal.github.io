@@ -21,7 +21,7 @@ const portfolioData = {
     },
     {
       role: "Social Media Marketing Intern",
-      company: "Volunteer Position",
+      company: "Lahol",
       subtitle: "",
       duration: "2024",
       description: "Supported social media marketing efforts as a volunteer, contributing to digital growth and engagement strategies.",
@@ -34,13 +34,11 @@ const portfolioData = {
       degree: "B.Tech in Computer Science Engineering",
       institution: "Bennett University, Greater Noida",
       duration: "2023 – Present",
-      detail: "CGPA: 6.8"
     },
     {
       degree: "Senior Secondary (PCM)",
       institution: "Renaissance School, Bulandshahr",
       duration: "Completed 2023",
-      detail: "74%"
     }
   ],
 
