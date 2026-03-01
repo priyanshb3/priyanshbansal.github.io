@@ -112,7 +112,7 @@ const portfolioData = {
     {
       album: "Business Program – Vietnam",
       year: "2024",
-      cover: "vietnam1.jpg",
+      cover: "vietnam4.JPG",
       photos: [
         { file: "vietnam1.jpeg", caption: "FPT University classes" },
         { file: "vietnam2.JPG", caption: "International team collaborations" },
