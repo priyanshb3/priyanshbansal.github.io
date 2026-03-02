@@ -71,16 +71,14 @@ const portfolioData = {
     "Microsoft Office"
   ],
 
-  publications: [
-    // ADD YOUR PUBLICATIONS HERE
-    // Example:
-    // {
-    //   title: "Your Paper Title",
-    //   publication: "Journal/Platform Name",
-    //   year: "2024",
-    //   link: "https://link-to-paper.com",
-    //   description: "Brief summary of what the paper is about."
-    // }
+  publications: [ 
+      {
+       title: "Forecasting the Cosmos: Time Series Methods in Modern Astronomy",
+       publication: "Medium",
+       year: "2025",
+       link: "https://medium.com/@priyanshbansal483/forcasting-the-cosmos-time-series-methods-in-modern-astronomy-2596c7e72369",
+       description: "An exploration of how time series analysis and forecasting methods — including ARIMA, SARIMA, Fourier analysis, and machine learning models like LSTM — are revolutionising modern astronomy by helping scientists predict solar activity, satellite orbits, and celestial anomalies."
+      }
   ],
 
   achievements: [
