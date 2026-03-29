@@ -171,7 +171,7 @@ const portfolioData = {
     {
       title: "The Courage to Be Disliked",
       author: "Ichiro Kishimi & Fumitake Koga",
-      rating: 5,
+      rating: 4,
       genre: "Psychology & Philosophy",
       review: "One of the most perspective shifting books I have ever read. Through a Socratic dialogue between a philosopher and a young man, the book unpacks Adlerian psychology in a way that feels deeply personal. Understanding the fundamental differences between Adler and Freud — particularly around causality versus teleology was genuinely eye-opening. I agreed with most of Adler's philosophy, though I felt the book's structure could have been better organised, with certain ideas introduced much earlier. That aside, it left a lasting mark on how I understand freedom, responsibility, and human connection.",
       color: "#06b6d4"
