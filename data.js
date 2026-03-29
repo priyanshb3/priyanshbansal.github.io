@@ -167,6 +167,22 @@ const portfolioData = {
       genre: "Fiction",
       review: "Felt like a quiet comfort. Unlike the heavy philosophical texts I've read, this book offered stillness, healing, and reflection. Its simplicity is its strength. Through small moments and the love of books, the story explores loneliness, growth, and rediscovering oneself. It reminded me that not all transformation is dramatic — sometimes it happens slowly, in silence, between pages. A gentle yet deeply meaningful read.",
       color: "#f59e0b"
+    },
+    {
+      title: "The Courage to Be Disliked",
+      author: "Ichiro Kishimi & Fumitake Koga",
+      rating: 5,
+      genre: "Psychology & Philosophy",
+      review: "One of the most perspective-shifting books I have ever read. Through a Socratic dialogue between a philosopher and a young man, the book unpacks Adlerian psychology in a way that feels deeply personal. Understanding the fundamental differences between Adler and Freud — particularly around causality versus teleology — was genuinely eye-opening. I agreed with most of Adler's philosophy, though I felt the book's structure could have been better organised, with certain ideas introduced much earlier. That aside, it left a lasting mark on how I understand freedom, responsibility, and human connection.",
+      color: "#06b6d4"
+    },
+    {
+      title: "Notes from the Underground",
+      author: "Fyodor Dostoevsky",
+      rating: 5,
+      genre: "Classic Fiction",
+      review: "One of the heaviest and most demanding reads I have ever taken on — but also one of the most rewarding. Once I settled into Dostoevsky's dense, spiralling style of writing, something shifted. The underground man stopped feeling like a fictional character and started feeling like a mirror. His contradictions, his pride, his isolation, his war with himself — it all felt uncomfortably familiar, like my own thoughts given a voice. This is not a comfortable book, but that is precisely its power. It stays with you in ways most books never do.",
+      color: "#8b5cf6"
     }
   ]
 };
