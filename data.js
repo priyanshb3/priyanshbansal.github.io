@@ -77,7 +77,7 @@ const portfolioData = {
        publication: "Medium",
        year: "2025",
        link: "https://medium.com/@priyanshbansal483/forcasting-the-cosmos-time-series-methods-in-modern-astronomy-2596c7e72369",
-       description: "An exploration of how time series analysis and forecasting methods — including ARIMA, SARIMA, Fourier analysis, and machine learning models like LSTM — are revolutionising modern astronomy by helping scientists predict solar activity, satellite orbits, and celestial anomalies."
+       description: "An exploration of how time series analysis and forecasting methods including ARIMA, SARIMA, Fourier analysis, and machine learning models like LSTM  are revolutionising modern astronomy by helping scientists predict solar activity, satellite orbits, and celestial anomalies."
       }
   ],
 
@@ -141,7 +141,7 @@ const portfolioData = {
       author: "James Clear",
       rating: 4,
       genre: "Self-Development",
-      review: "A game-changing book that breaks down how tiny 1% improvements compound into remarkable results. Clear's framework of identity-based habits completely changed how I approach personal growth.",
+      review: "A game changing book that breaks down how tiny 1% improvements compound into remarkable results. Clear's framework of identity-based habits completely changed how I approach personal growth.",
       color: "#f97316" // orange accent color for this card
     },
     {
@@ -149,7 +149,7 @@ const portfolioData = {
       author: "Jostein Gaarder",
       rating: 5,
       genre: "Philosphy",
-      review: "Reading Sophie's World was more than finishing a 400+ page novel — it was an intellectual shift for me. It introduced me to centuries of philosophy, but more importantly, it forced me to question my own assumptions. I found myself agreeing with some thinkers, strongly disagreeing with others, and learning how to argue from understanding rather than impulse. Philosophers like Epicurus, Nietzsche, and Sartre especially resonated with me. What impacted me most was realizing how many systems — moral, religious, and social — are human constructions. That realization was humbling. Finishing this book didn't just expand my knowledge — it helped me rediscover my love for questioning and thinking deeply",
+      review: "Reading Sophie's World was more than finishing a 400+ page novel  it was an intellectual shift for me. It introduced me to centuries of philosophy, but more importantly, it forced me to question my own assumptions. I found myself agreeing with some thinkers, strongly disagreeing with others, and learning how to argue from understanding rather than impulse. Philosophers like Epicurus, Nietzsche, and Sartre especially resonated with me. What impacted me most was realizing how many systems  moral, religious, and social are human constructions. That realization was humbling. Finishing this book didn't just expand my knowledge it helped me rediscover my love for questioning and thinking deeply",
       color: "#f97316"
     },
     {
@@ -157,7 +157,7 @@ const portfolioData = {
       author: "B.R. Ambedkar",
       rating: 5,
       genre: "Politics & Society",
-      review: "A challenging and intense read. Ambedkar doesn't just criticize caste — he dismantles the religious, social, and philosophical foundations that protect it. His intellectual courage and refusal to engage in hero worship stood out to me the most. While I did not agree with every aspect of his framing, engaging with his arguments strengthened my critical thinking and pushed me to separate tradition from morality. A humbling experience that reshaped how I view power, social reform, and ethical responsibility.",
+      review: "A challenging and intense read. Ambedkar doesn't just criticize caste he dismantles the religious, social, and philosophical foundations that protect it. His intellectual courage and refusal to engage in hero worship stood out to me the most. While I did not agree with every aspect of his framing, engaging with his arguments strengthened my critical thinking and pushed me to separate tradition from morality. A humbling experience that reshaped how I view power, social reform, and ethical responsibility.",
       color: "#6366f1"
     },
     {
@@ -173,7 +173,7 @@ const portfolioData = {
       author: "Ichiro Kishimi & Fumitake Koga",
       rating: 5,
       genre: "Psychology & Philosophy",
-      review: "One of the most perspective-shifting books I have ever read. Through a Socratic dialogue between a philosopher and a young man, the book unpacks Adlerian psychology in a way that feels deeply personal. Understanding the fundamental differences between Adler and Freud — particularly around causality versus teleology — was genuinely eye-opening. I agreed with most of Adler's philosophy, though I felt the book's structure could have been better organised, with certain ideas introduced much earlier. That aside, it left a lasting mark on how I understand freedom, responsibility, and human connection.",
+      review: "One of the most perspective shifting books I have ever read. Through a Socratic dialogue between a philosopher and a young man, the book unpacks Adlerian psychology in a way that feels deeply personal. Understanding the fundamental differences between Adler and Freud — particularly around causality versus teleology was genuinely eye-opening. I agreed with most of Adler's philosophy, though I felt the book's structure could have been better organised, with certain ideas introduced much earlier. That aside, it left a lasting mark on how I understand freedom, responsibility, and human connection.",
       color: "#06b6d4"
     },
     {
@@ -181,7 +181,7 @@ const portfolioData = {
       author: "Fyodor Dostoevsky",
       rating: 5,
       genre: "Classic Fiction",
-      review: "One of the heaviest and most demanding reads I have ever taken on — but also one of the most rewarding. Once I settled into Dostoevsky's dense, spiralling style of writing, something shifted. The underground man stopped feeling like a fictional character and started feeling like a mirror. His contradictions, his pride, his isolation, his war with himself — it all felt uncomfortably familiar, like my own thoughts given a voice. This is not a comfortable book, but that is precisely its power. It stays with you in ways most books never do.",
+      review: "One of the heaviest and most demanding reads I have ever taken on  but also one of the most rewarding. Once I settled into Dostoevsky's dense, spiralling style of writing, something shifted. The underground man stopped feeling like a fictional character and started feeling like a mirror. His contradictions, his pride, his isolation, his war with himself — it all felt uncomfortably familiar, like my own thoughts given a voice. This is not a comfortable book, but that is precisely its power. It stays with you in ways most books never do.",
       color: "#8b5cf6"
     }
   ]
