@@ -691,11 +691,18 @@ pEl.innerHTML=(!d.publications||!d.publications.length)
   :d.publications.map(p=>`<div class="pub-card reveal"><div class="pub-title">${p.title}</div><div class="pub-meta">${p.publication} · ${p.year}</div><div class="pub-desc">${p.description}</div>${p.link?`<a href="${p.link}" target="_blank" style="color:var(--accent3);font-size:.82rem;margin-top:.5rem;display:inline-block">Read ↗</a>`:''}</div>`).join('');
 
 /* ACH */
-const aEl=document.getElementById('ach-container');
-aEl.innerHTML=(!d.achievements||!d.achievements.length)
-  ?`<div class="empty-section reveal">🏆 Achievements will appear here once added in <code>data.js</code></div>`
-  :d.achievements.map(a=>`<div class="ach-card reveal"><div class="ach-title">${a.title}</div><div class="ach-meta">${a.year}</div><div class="ach-desc">${a.description}</div></div>`).join('');
-
+const cEl=document.getElementById('cert-container');
+cEl.innerHTML=(!d.certifications||!d.certifications.length)
+  ?`<div class="empty-section reveal">🎓 Certifications will appear here once added in <code>data.js</code></div>`
+  :d.certifications.map(c=>`<div class="ach-card reveal">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:0.5rem">
+        <div class="ach-title">${c.title}</div>
+        <div class="ach-meta">${c.year}</div>
+      </div>
+      <div style="font-size:0.8rem;color:var(--accent3);margin-bottom:0.4rem">${c.issuer}</div>
+      <div class="ach-desc">${c.description}</div>
+      ${c.link?`<a href="${c.link}" target="_blank" style="color:var(--accent1);font-size:0.8rem;margin-top:0.5rem;display:inline-block">View Certificate ↗</a>`:''}
+    </div>`).join('');
 /* BOOKS */
 const bg=document.getElementById('books-grid');
 bg.innerHTML=(!d.books||!d.books.length)
