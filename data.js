@@ -102,6 +102,20 @@ const portfolioData = {
         year: "Mar 2026",
         link: "https://coursera.org/verify/9Y2B5G9ZO1I7",
         description: "Completed a course on social network analysis and its applications, authorized by Johns Hopkins University."
+      },
+      {
+        title: "Synapse Program – AI & Robotics Immersion",
+        issuer: "Synapse Innovate",
+        year: "2023",
+        link: "https://synapseinnovate.com/post-internship-credits-1",
+        description: "Completed an international immersion program in AI, Robotics, and Business with institutional visits in France (SEPR Lyon) and the United Nations in Geneva."
+      },
+      {
+      title: "Youth Support Circle – Communication Contributor",
+      issuer: "Cormis Vietnam",
+      year: "2024",
+      link: "https://www.cormisvietnam.org/youth-support-circle/priyansh-bansal",
+      description: "Recognized by Cormis Vietnam for contributions as Communication Lead, supporting sustainability and women empowerment initiatives through digital storytelling."
       }
  ],
 
