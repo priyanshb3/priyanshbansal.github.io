@@ -81,15 +81,29 @@ const portfolioData = {
       }
   ],
 
-  achievements: [
-    // ADD YOUR ACHIEVEMENTS HERE
-    // Example:
-    // {
-    //   title: "Winner – National Marketing Competition",
-    //   year: "2024",
-    //   description: "Won 1st place among 200+ teams across India."
-    // }
-  ],
+  certifications: [
+      {
+        title: "Text Mining and Analytics",
+        issuer: "University of Illinois Urbana-Champaign (via Coursera)",
+        year: "May 2025",
+        link: "https://coursera.org/verify/9CW48XHD9DC2",
+        description: "Completed a course on text mining, natural language processing, and analytics authorized by University of Illinois Urbana-Champaign."
+      },
+      {
+        title: "Database Management Essentials",
+        issuer: "University of Colorado System (via Coursera)",
+        year: "Nov 2024",
+        link: "https://coursera.org/verify/5TX3Q4CB1R61",
+        description: "Completed with Honors. Covered database design, SQL, and management essentials authorized by University of Colorado Denver."
+      },
+      {
+        title: "Social Network Analysis",
+        issuer: "Johns Hopkins University (via Coursera)",
+        year: "Mar 2026",
+        link: "https://coursera.org/verify/9Y2B5G9ZO1I7",
+        description: "Completed a course on social network analysis and its applications, authorized by Johns Hopkins University."
+      }
+ ],
 
   // 📸 PHOTO GALLERY — Add your program/travel photos here!
   // Upload your photos to GitHub (same folder as index.html), then add them below.
