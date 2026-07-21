@@ -60,14 +60,14 @@ const portfolioData = {
   ],
 
   skills: [
-    "Social Media Marketing", "Content Strategy", "Digital Campaign Management",
-    "Brand Development and Positioning", "Audience Engagement and Growth",
-    "Creative Content Planning", "Visual Content Design (Canva)",
-    "Community and Relationship Management", "Professional Communication",
+    "Cross-cultural Collaboration", "Text Mining (Beginner)", "Digital Campaign Management",
+    "Innovation & Problem Solving", "Innovation Management",
+    "Database Fundamentals", "SQL (Beginner)",
+    "Community and Relationship Management", "Network Analysis",
     "Public Relations and Outreach", "Stakeholder Coordination",
-    "NGO and Social Impact Marketing", "Sustainability Communication",
+    "NGO and Social Impact", "Communication Cordination",
     "Project Management", "Market Research and Analysis",
-    "Presentation and Reporting", "Google Workspace", "Basic Data Analysis",
+    "Natural Language Processing (Beginner)", "Google Workspace", "Data Analysis",
     "Microsoft Office"
   ],
 
