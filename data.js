@@ -20,12 +20,12 @@ const portfolioData = {
       tags: ["Social Media", "NGO", "Content Strategy", "International"]
     },
     {
-      role: "Social Media Marketing Intern",
-      company: "Lahol",
+      role: "Project Lead",
+      company: "Kisheela",
       subtitle: "",
-      duration: "2024",
-      description: "Supported social media marketing efforts as a volunteer, contributing to digital growth and engagement strategies.",
-      tags: ["Social Media", "Marketing", "Volunteer"]
+      duration: "August 2026 - Present",
+      description: "building Kishila, a social welfare initiative for women's empowerment from the ground up owning brand naming and campaign strategy, business registration and banking setup, website design, and social media growth and future goals",
+      tags: ["Project Lead"]
     }
   ],
 
