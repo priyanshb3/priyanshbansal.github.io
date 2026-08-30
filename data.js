@@ -185,7 +185,7 @@ const portfolioData = {
       author: "B.R. Ambedkar",
       rating: 5,
       genre: "Politics & Society",
-      review: "A challenging and intense read. Ambedkar doesn't just criticize caste he dismantles the religious, social, and philosophical foundations that protect it. His intellectual courage and refusal to engage in hero worship stood out to me the most. While I did not agree with every aspect of his framing, engaging with his arguments strengthened my critical thinking and pushed me to separate tradition from morality. A humbling experience that reshaped how I view power, social reform, and ethical responsibility.",
+      review: "A challenging and intense read. Ambedkar doesn't just criticize caste he dismantles the religious, social, and philosophical foundations that protect it. His intellectual courage and refusal to engage in hero worship stood out to me the most While I did not agree with every aspect of his framing, engaging with his arguments strengthened my critical thinking and pushed me to separate tradition from morality A humbling experience that reshaped how I view power, social reform, and ethical responsibility.",
       color: "#6366f1"
     },
     {
@@ -193,7 +193,7 @@ const portfolioData = {
       author: "Satoshi Yagisawa",
       rating: 5,
       genre: "Fiction",
-      review: "Felt like a quiet comfort. Unlike the heavy philosophical texts I've read, this book offered stillness, healing, and reflection. Its simplicity is its strength. Through small moments and the love of books, the story explores loneliness, growth, and rediscovering oneself. It reminded me that not all transformation is dramatic — sometimes it happens slowly, in silence, between pages. A gentle yet deeply meaningful read.",
+      review: "Felt like a quiet comfort. Unlike the heavy philosophical texts I've read, this book offered stillness, healing, and reflection. Its simplicity is its strength. Through small moments and the love of books, the story explores loneliness, growth, and rediscovering oneself. It reminded me that not all transformation is dramatic sometimes it happens slowly, in silence, between pages A gentle yet deeply meaningful read.",
       color: "#f59e0b"
     },
     {
@@ -201,7 +201,7 @@ const portfolioData = {
       author: "Ichiro Kishimi & Fumitake Koga",
       rating: 4,
       genre: "Psychology & Philosophy",
-      review: "One of the most perspective shifting books I have ever read. Through a Socratic dialogue between a philosopher and a young man, the book unpacks Adlerian psychology in a way that feels deeply personal. Understanding the fundamental differences between Adler and Freud — particularly around causality versus teleology was genuinely eye-opening. I agreed with most of Adler's philosophy, though I felt the book's structure could have been better organised, with certain ideas introduced much earlier. That aside, it left a lasting mark on how I understand freedom, responsibility, and human connection.",
+      review: "One of the most perspective shifting books I have ever read. Through a Socratic dialogue between a philosopher and a young man, the book unpacks Adlerian psychology in a way that feels deeply personal. Understanding the fundamental differences between Adler and Freud particularly around causality versus teleology was genuinely eye-opening. I agreed with most of Adler's philosophy, though I felt the book's structure could have been better organised, with certain ideas introduced much earlier. That aside, it left a lasting mark on how I understand freedom, responsibility, and human connection.",
       color: "#06b6d4"
     },
     {
