@@ -14,7 +14,7 @@ const portfolioData = {
     {
       role: "Communication Lead",
       company: "Cormis Vietnam",
-      subtitle: "Sustainability & Women Empowerment NGO",
+      subtitle: "Sustainability NGO",
       duration: "July 2024 – Present",
       description: "Built and managed the organization's Instagram presence from zero, growing it to 200+ followers within a few months through content strategy, reels, and consistent posting. Led communication and outreach for a social enterprise working with disabled women in upcycling and sewing projects. Managed external communications, coordinated with Japanese and international partners, and represented the organization's sustainability mission through digital storytelling.",
       tags: ["Social Media", "NGO", "Content Strategy", "International"]
@@ -22,7 +22,7 @@ const portfolioData = {
     {
       role: "Project Lead",
       company: "Kisheela",
-      subtitle: "",
+      subtitle: "Women Empowerment initiative",
       duration: "August 2026 - Present",
       description: "building Kishila, a social welfare initiative for women's empowerment from the ground up owning brand naming and campaign strategy, business registration and banking setup, website design, and social media growth and future goals",
       tags: ["Project Lead"]
